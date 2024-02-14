@@ -1,7 +1,7 @@
 # test-full-stack-developer
 Repository for full-stack developer written test
 
-Please use Java/Spring, with any extra tech stack(s) of your choice.
+Please use Java/Spring, JSP, with any extra tech stack(s) of your choice.
 
 Kindly create a private repository and invite [matthewlam-lcjg](https://github.com/matthewlam-lcjg) as a collaborator when you feel comfortable to request a review.
 
